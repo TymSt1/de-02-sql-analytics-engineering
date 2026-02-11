@@ -1,0 +1,14 @@
+# Data files
+data/raw/*.csv
+
+# Docker volumes
+pgdata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
