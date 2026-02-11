@@ -1,7 +1,5 @@
 # 🔷 Project 2: SQL Analytics Engineering on PostgreSQL
 
-**Part of the [Data Engineering Roadmap](https://github.com/TymSt1)**
-
 A complete analytical data model built on the Brazilian E-Commerce dataset (Olist),
 running in PostgreSQL via Docker. Implements a medallion/layered architecture
 (raw → staging → intermediate → mart) with performance-tuned indexes,
